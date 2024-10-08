@@ -1,0 +1,48 @@
+{
+    // settings.json file
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "editor.fontSize": 16,
+    "editor.cursorBlinking": "phase",
+    // "editor.lineNumbers": "relative",
+    "git.autofetch": true,
+    "emmet.useInlineCompletions": true,
+    "emmet.triggerExpansionOnTab": true,
+    "files.associations": {"*html": "html"},
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.excludeLanguages": [],
+    "workbench.sideBar.location": "right",
+    "editor.rulers": [
+        79, 88
+    ],
+    "git.enableSmartCommit": true,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    
+    "editor.tabSize": 2,
+    "workbench.settings.applyToAllProfiles": [
+        "editor.tabSize"
+    ],
+    "[python]": {
+        "editor.formatOnType": true,
+        "editor.tabSize": 4,
+        "editor.defaultFormatter": null
+    },
+    "workbench.activityBar.location": "top",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "right"
+    },
+    "discord.detailsEditing": "Editing",
+    "discord.detailsDebugging": "Debugging",
+    "discord.lowerDetailsEditing": "Ln {current_line}/{total_lines}, Col {current_column}",
+    "discord.lowerDetailsDebugging": "Ln {current_line}/{total_lines}, Col {current_column}",
+    "discord.largeImage": "{LANG}",
+    // "discord.smallImage": "Go use vim.",
+    "discord.removeRemoteRepository": true,
+    // "material-icon-theme.activeIconPack": "react",
+    "workbench.iconTheme": "catppuccin-macchiato",
+    "autoDocstring.docstringFormat": "sphinx-notypes",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "window.commandCenter": false,
+    "python.languageServer": "Pylance",
+}
