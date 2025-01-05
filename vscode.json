@@ -27,7 +27,6 @@
         "editor.tabSize": 4,
         "editor.defaultFormatter": null
     },
-    "workbench.activityBar.location": "top",
     "notebook.cellToolbarLocation": {
         "default": "right",
         "jupyter-notebook": "right"
@@ -43,6 +42,15 @@
     "workbench.iconTheme": "catppuccin-macchiato",
     "autoDocstring.docstringFormat": "sphinx-notypes",
     "C_Cpp.intelliSenseEngine": "disabled",
+    "ruff.nativeServer": "on",
+    "githubPullRequests.pullBranch": "never",
+    "cSpell.language": "en-GB",
+    "cSpell.userWords": [
+        "cumclock",
+        "cumcounter",
+        "cumsum"
+    ],
+    "workbench.activityBar.location": "top",
     "window.commandCenter": false,
-    "python.languageServer": "Pylance",
+    "window.titleBarStyle": "custom",
 }
